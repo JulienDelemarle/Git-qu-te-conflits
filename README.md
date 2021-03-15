@@ -1,3 +1,4 @@
+REMOTE
 # Git-qu-te-conflits
 
 comment gérer les conflits?
